@@ -1,16 +1,54 @@
-### Hi there 👋
+<!-- Título e apresentação -->
+<h1>Hello there, I'm João Pedro! 👋</h1>
 
-<!--
-**Joao-Pedro-Checco/Joao-Pedro-Checco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- General Kenobi -->
+![hello there](https://media.tenor.com/EJ5ezT8nTdoAAAAC/hello-there-obi-wan.gif)
 
-Here are some ideas to get you started:
+<!-- Sobre mim -->
+<div>
+    <h2>About Me</h2>
+    <ul>
+        <li>System Development and Analysis at Fatec Garça</li>
+        <li>Intern at Fulltime - Soluções e Tecnologias de Monitoramento e Rastreamento</li>
+    </ul>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Linguagens de programação e ferramentas -->
+<div>
+    <h2>Programming Languages and Tools 🖥️</h2>
+    <ul>
+        <li>Java</li>
+        <li>SpringBoot 3</li>
+        <li>Python</li>
+        <li>HTML5</li>
+        <li>JavaScript</li>
+        <li>Git</li>
+    </ul>
+</div>
+
+<!-- Idiomas -->
+<div>
+    <h2>Languages 🌎</h2>
+    <ul>
+        <li>Native Brazilian Portuguese</li>
+        <li>Fluent English</li>
+        <li>Beginner Japanese</li>
+    </ul>
+</div>
+
+<!-- Estatísticas do Github -->
+<div>
+    <h2>Github Stats ⚡</h2>
+    <a href="https://github.com/Joao-Pedro-Checco">
+        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-Checco&layout=compact&langs_count=7&theme=dracula"/>
+        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Pedro-Checco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    </a>
+</div>
+
+<!-- Contato -->
+<div>
+    <h2>Reach Me 📫</h2>
+    <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-checco-839417236/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+    <a href = "mailto:joaochecco@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/jchecco_" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> </a>
+</div>
