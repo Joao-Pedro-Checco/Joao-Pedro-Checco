@@ -48,6 +48,6 @@
 <!-- Contato -->
 <div>
     <h2>Reach Me 📫</h2>
-    <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-checco-839417236/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+    <a href="https://www.linkedin.com/in/joao-pedro-checco" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
     <a href = "mailto:joaochecco@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
