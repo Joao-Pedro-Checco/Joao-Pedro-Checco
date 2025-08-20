@@ -8,8 +8,8 @@
 <div>
     <h2>About Me</h2>
     <ul>
-        <li>System Development and Analysis at Fatec Garça</li>
-        <li>Intern at Fulltime - Soluções e Tecnologias de Monitoramento e Rastreamento</li>
+        <li>System Development and Analysis Graduate at Fatec Garça</li>
+        <li>Junior Java Developer at Fulltime - Soluções e Tecnologias de Monitoramento e Rastreamento</li>
     </ul>
 </div>
 
